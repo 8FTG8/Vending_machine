@@ -1,6 +1,7 @@
 # Vending Machine
 
-Este projeto é uma simulação de uma máquina de vendas automática (vending machine) implementada em C++. O programa permite que usuários e administradores interajam com a máquina através de um menu, realizando operações como listagem de produtos, compra de produtos e gerenciamento de estoque.
+Este projeto é uma simulação de uma máquina de vendas automática (vending machine) implementada em C++. 
+O programa permite que usuários e administradores interajam com a máquina através de um menu, realizando operações como listagem de produtos, compra de produtos e gerenciamento de estoque.
 
 ## Funcionalides
 
